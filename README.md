@@ -2,7 +2,7 @@
 
 Hello, dev (:
 
-Criei esse repositório para apresentar os meus outros repositórios e deixar algumas anotações/resumos que considero importante das linguagens. Cada pasta contempla a linguagem que eu estou estudando e dentro dela está as anotações/arquivos que considero importantes no estudo.
+Criei esse repositório para apresentar os meus outros repositórios e deixar algumas anotações/resumos que considero importante das linguagens. Cada pasta contempla a linguagem que eu estou estudando e dentro dela está as anotações e os arquivos para teste.
 
 arka.
 
