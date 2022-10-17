@@ -14,6 +14,7 @@ arka.
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <a href="https://github.com/Arkadina/reactjs-CRUD-v1">reactjs-CRUD-v1</a> | Esse foi o meu primeiro projeto integrando Firebase e ReactJS. Ele é uma CRUD (create, read, update & delete) que você pode criar a sua conta, logar e adicionar dados à tabela.  Há ainda alguns errinhos (como chamar várias vezes os mesmos dados, o que atrasa demais a renderização) mas dá para entender as funções do firebase (firestore e authenticator) integrando elas ao react. |
 | <a href="https://github.com/Arkadina/reactjs-CRUD-v2">reactjs-CRUD-v2</a> | Essa é a segunda versão da CRUD. Aqui eu utilizei <a href="https://react-redux.js.org/">react-redux</a> para salvar os dados num _state global_ ao invés de ficar chamando elas várias vezes através do firebase (como na primeira versão).                                                 |
+| <a href="https://github.com/Arkadina/translate-in-reactjs">translate-in-reactjs</a> | Criei esse mini projeto para testar o i18next, usado para traduzir de acordo com o idioma selecionado.    
 
 ### NodeJS
 
