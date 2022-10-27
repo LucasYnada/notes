@@ -37,3 +37,20 @@ $vert: top;
   background-color: yellow;
 } */
 ```
+
+```css
+$roboto-font-path: "../fonts/roboto";
+
+@font-face {
+    src: url("#{$roboto-font-path}/Roboto-Thin.woff2") format("woff2");
+    font-family: "Roboto";
+}
+```
+
+```css
+$logo-element: logo-bg;
+
+.logo {
+    background: element(##{$logo-element});
+}
+```
