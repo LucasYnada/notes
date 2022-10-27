@@ -8,6 +8,21 @@ arka.
 
 ## Repositórios
 
+### HTML/CSS/JS
+
+#### Rocketseat
+
+| Repositório                                                                         | Descrição                                                                                                                                                           |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://github.com/Arkadina/rocketseat-portfolio">rocketseat-portfolio</a> | <a href="https://efficient-sloth-d85.notion.site/Desafio-Portfolio-1d3db21e654941f5872aece5fcc6bcc6">Desafio Portfolio </a> da Rocketseat. Iniciante: (html & css). |
+
+
+### NodeJS
+
+| Repositório                                                                      | Descrição                                                                                                                                                                                                                                                                                   |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://github.com/Arkadina/api-restful-with-mysql">api-restful-with-mysql</a> | Aplicação de uma api usando NodeJS (express). Para fazer as requisições eu utilizei o Insomnia e para salvar os dados mySQL. |
+
 ### ReactJS
 
 | Repositório                                                                                           | Descrição                                                                                                                                                                                                                                                                                                                                                                                  |
