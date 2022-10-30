@@ -35,6 +35,8 @@ const Container = styled.div`
         height: 80px;
         background-color: #fff;
     }
+    
+    // content: "\\00BB" (duas barras)
 `;
 
 <Container>
