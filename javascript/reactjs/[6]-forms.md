@@ -11,7 +11,7 @@ function handleSubmit(e) {
 }
 
 <form onSubmit={handleSubmit}>
-    <input type="text" row="5" onChange={(e) => setValue(e.target.value)} />
+    <input type="text" onChange={(e) => setValue(e.target.value)} />
     <input type="submit" value="Submit" />
 </form>;
 ```
