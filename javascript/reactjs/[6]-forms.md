@@ -1,9 +1,26 @@
 # Forms
 
-Alterando valor do select com setValue
+Textos: pegando o valor de um input
+
+```jsx
+const [value, setValue] = useState();
+
+function handleSubmit(e) {
+    e.preventDefault();
+    alert(value);
+}
+
+<form onSubmit={handleSubmit}>
+    <input type="text" row="5" onChange={(e) => setValue(e.target.value)} />
+    <input type="submit" value="Submit" />
+</form>;
+```
+
+Select: alterando valor do select com setValue
 
 ```jsx
 const [value, setValue] = useState("coconut");
+// padrão coconut
 
 function handleChange(e) {
     setValue(e.target.value);
@@ -28,7 +45,7 @@ function handleSubmit(e) {
 </form>;
 ```
 
-Enviando múltiplos arquivos do tipo "image"
+Arquivos: enviando múltiplos arquivos do tipo "image"
 
 ```jsx
 function handleChangeImage(e) {
